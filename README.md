@@ -1,2 +1,3 @@
 Howdy, I’m @HypersonicMarshmallow. 
-Haven't done much with GitHub yet, but I intend to collaborate on OpenSource software.
+I'll be putting all of my projects in my repos.
+Send me a ping if you want to collab on something.
